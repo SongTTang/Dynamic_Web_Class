@@ -1,0 +1,27 @@
+### get all todos
+GET http://localhost:3001/todos HTTP/1.1
+Content-Type: application/json
+
+### Create a new todo
+POST http://localhost:3001/todos HTTP/1.1
+Content-Type: application/json
+
+{
+    "title": "Make sure your have 2 terminal tabs in vs2 folder"
+}
+
+### Edit an existing todo by id
+PUT http://localhost:3001/todos/1 HTTP/1.1
+Content-Type: application/json
+
+{
+    "title": "Update title via put request"
+}
+
+### Delete an existing todo by id
+DELETE http://localhost:3001/todos/2 HTTP/1.1
+Content-Type: application/json
+
+{
+    "title": "Update title via put request"
+}
