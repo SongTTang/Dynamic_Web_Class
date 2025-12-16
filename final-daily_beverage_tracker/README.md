@@ -13,21 +13,20 @@ It helps users understand:
 - And trends in daily beverage diversity over time
 
 
----
 
 ## Inspiration
 
 This project was inspired by my own daily habit of drinking different beverages (coffee, tea, milk drinks, etc.) and the difficulty of remembering what I actually consumed over time.  
 I wanted to design a tool that feels closer to a personal journal than a strict health tracker, using a calendar view and subtle visual cues instead of numbers-heavy input.
 
----
+
 
 ## Presentation Slide
 
 You can view the project presentation here:  
 👉 **[Presentation Slide](https://docs.google.com/presentation/d/1iuRQUIPR31pkYAglHcHv17f7_I-zGaROzRwa6NeYsgk/edit?usp=sharing)**
 
----
+
 
 ## How does it looks 👀
 
