@@ -50,7 +50,7 @@ You can view the project presentation here:
 	<br>
   ⬆️ VisualizationPage
 </p>
-<hr />
+
 
 ## Tech Stack 🔧
 
