@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* light */
+:root {
+  --color-bg: #ffffff;
+  --color-text: #1a1a1a;
+  --color-card: #f5f5f5;
+  --color-card-dark: #e5e5e5; 
+  --color-primary: #3b82f6;
+  --color-primary-dark: #2563eb;
+  --color-accent: #93c5fd;
+  --color-border: #e5e7eb;
+}
+
+/* wood */
+.theme-wood {
+  --color-bg: #fff7e6;
+  --color-text: #503c19;
+  --color-card: #ffe7b8;
+  --color-primary: #ff8c42;
+  --color-primary-dark: #ed7428;
+  --color-accent: #ffaf66;
+  --color-border: #e4b077;
+}
+
+/* matcha */
+.theme-matcha {
+  --color-bg: #F7F5EF;
+  --color-text: #3F1D0E;
+  --color-card: #EDE8DD;
+  --color-primary: #ABBF9B;
+  --color-primary-dark: #8fae76;
+  --color-accent: #A2663C;
+  --color-border: #D3C7B8;
+}
+
+/* arabica coffee */
+.theme-arabica {
+  --color-bg: #F5EEDC;
+  --color-text: #3E2F1C;
+  --color-card: #E6D5B8;
+  --color-primary: #8c643c;
+  --color-primary-dark: #754a20;
+  --color-accent: #E3C07B;
+  --color-border: #c9ab8a;
+}
+
+/* serenity */
+.theme-serenity {
+  --color-bg: #E7F2F5;
+  --color-text: #2D4A47;
+  --color-card: #D3E6EA;
+  --color-primary: #768C45;
+  --color-primary-dark: #657b34;
+  --color-accent: #A8BDBF;
+  --color-border: #C0D5D8;
+}
+
+/* -coconut */
+.theme-coconut {
+  --color-bg: #f8e7ce;
+  --color-text: #5a3d35;
+  --color-card: #fff8eb;
+  --color-primary: #2F7B8B;
+  --color-primary-dark: #1c6978;
+  --color-accent: #7F492B;
+  --color-border: #ce9f5d;
+}
